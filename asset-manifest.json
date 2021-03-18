@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mineship-react/static/css/main.2e97a685.chunk.css",
+    "main.js": "/mineship-react/static/js/main.6a811092.chunk.js",
+    "main.js.map": "/mineship-react/static/js/main.6a811092.chunk.js.map",
+    "runtime-main.js": "/mineship-react/static/js/runtime-main.f63f0f59.js",
+    "runtime-main.js.map": "/mineship-react/static/js/runtime-main.f63f0f59.js.map",
+    "static/js/2.1f14b590.chunk.js": "/mineship-react/static/js/2.1f14b590.chunk.js",
+    "static/js/2.1f14b590.chunk.js.map": "/mineship-react/static/js/2.1f14b590.chunk.js.map",
+    "index.html": "/mineship-react/index.html",
+    "static/css/main.2e97a685.chunk.css.map": "/mineship-react/static/css/main.2e97a685.chunk.css.map",
+    "static/js/2.1f14b590.chunk.js.LICENSE.txt": "/mineship-react/static/js/2.1f14b590.chunk.js.LICENSE.txt",
+    "static/media/rules_3b_1ship.c4ac4dc5.png": "/mineship-react/static/media/rules_3b_1ship.c4ac4dc5.png",
+    "static/media/rules_3b_2ship.da4abdf1.png": "/mineship-react/static/media/rules_3b_2ship.da4abdf1.png",
+    "static/media/rules_3b_3ship.f3250707.png": "/mineship-react/static/media/rules_3b_3ship.f3250707.png",
+    "static/media/rules_3r.7882da57.png": "/mineship-react/static/media/rules_3r.7882da57.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f63f0f59.js",
+    "static/js/2.1f14b590.chunk.js",
+    "static/css/main.2e97a685.chunk.css",
+    "static/js/main.6a811092.chunk.js"
+  ]
+}
